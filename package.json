@@ -1,5 +1,5 @@
 {
-  "name": "job-application-tracker",
+  "name": "jobapplicationtracker",
   "version": "1.0.0",
   "description": "Simple API to track job applications and interview pipeline",
   "main": "src/server.js",
